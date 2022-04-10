@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('bg-img.PNG');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+main{
+    /* background-color: rgb(193, 26, 26); */
+    margin-left: 25vw;
+    height: 90vh;
+    margin-top: 8vh;
+    
+}
+
+.sai-logo img{
+    margin-top: 8vh;
+    margin-left: 7vw;
+}
+.contact{
+    margin-top: 4vh;
+    margin-left: 8vw;
+}
+.contact h1{
+    margin-top: 10px;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    width: 30px;
+    margin-top: 4vh;
+    margin-left: 7vw;
+ 
+}
+.no{
+    margin-top: 4vh;
+}
+div.loc{
+    display: flex;
+    flex-direction: row;
+}
+
+.locsvg{
+    width: 30px;
+    margin-top: 4vh;
+    margin-left: 7vw;
+}
+.add{
+    margin-top: 4vh;
+}
+.icons{
+    display:flex;
+    flex-direction: row;
+    margin-top: 3vh;
+    margin-left:8vw ;
+}
+
+.yicon{
+    margin-left: 2vw;
+    margin-top: 1vh;
+}
+
+.ticon{
+    margin-left: 2vw;
+    margin-top: 1vh;
+    
+}
+.inicon{
+    margin-left: 2vw;
+    margin-top: -3px;
+
+}
+
+.quick{
+    float: right;
+    margin-top: -43vh;
+    margin-right: 25vw;
+}
+
+.quick p{
+    font-size: 25px;
+    padding: 2px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 7vh;
+    margin-left: 7vw;
+
+}
+
+.book{
+    font-size: 20px;
+}
+
+hr{
+    width: 10vw;
+}
+
+.enroll{
+    font-size: 20px;
+    margin-left: 13vw;
+}
+.upenroll{
+    float: right;
+    margin-top: -40vh;
+    font-size: 20px;
+    transform: rotateZ(90deg);
+}
+
+.pixlogo{
+    margin-left: 20vw;
+    margin-top: -4vh;
+}
